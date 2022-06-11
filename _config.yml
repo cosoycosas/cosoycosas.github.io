@@ -13,31 +13,29 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-lang: en-US
-title: My Awesome Site
-email:
-description:
+lang: es-AR
+title: cosoycosas
+email: chaucosoycosas@gmail.com
+description: plant based vegan recipes and diy upcycling garments
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://cosoycosas.github.io/
 author:
-  name:
-  twitter:
-  picture:
-twitter_username:
-github_username:
-logo: # path of site logo, e.g. "/assets/images/logo.png"
-search: # true, false (default)
-search_full_content: false # true, false (default)
-search_provider: # lunr (default), algolia
+  name: Juki
+  picture: /assets/images/logo_coso_home.jpg
+telegram_channel: cosoycosas
+instagram_username: cosoycosas
+logo: /assets/images/logo_coso_home_cuadrado.jpg
+search: true # false (default)
+search_full_content: true # false (default)
+search_provider: algolia
 algolia:
-  application_id: # YOUR_APPLICATION_ID
-  index_name: # YOUR_INDEX_NAME
-  search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
-  powered_by: # true (default), false
+  application_id: OZV3ECHUG5
+  index_name: juki_cosoycosas
+  search_only_api_key: bce8d69a9c44241e9e75d2d263b41226
+  powered_by: false
 
 # Build settings
 markdown: kramdown
-# theme: jekyll-theme-basically-basic
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins: # previsously gems
   - jekyll-feed
@@ -48,7 +46,7 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
+paginate: 3
 paginate_path: /page:num/
 
 # Exclude from processing.
@@ -75,12 +73,20 @@ exclude:
   - /docs # ignore Basically Basic sample site
   - /example # ignore Basically Basic dev site
 
+
 # Front Matter Defaults
 defaults:
   # _posts
   - scope:
       path: "_posts"
       type: posts
+    values:
+      layout: post
+      read_time: true
+  # _recipes
+  - scope:
+      path: "_recipes"
+      type: recipes
     values:
       layout: post
       read_time: true
