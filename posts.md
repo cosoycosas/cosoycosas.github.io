@@ -1,7 +1,6 @@
 ---
 title: Blog
 layout: posts
-permalink: /posts/
+permalink: /blog/
 entries_layout: grid
-collection: recipes
 ---
