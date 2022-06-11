@@ -75,7 +75,7 @@ exclude:
 
 # Collections
 collections:
-  recipes:
+  recetas:
     output: true
     permalink: /:collection/:path/
     
@@ -88,10 +88,10 @@ defaults:
     values:
       layout: post
       read_time: true
-  # _recipes
+  # _recetas
   - scope:
-      path: "_recipes"
-      type: recipes
+      path: "_recetas"
+      type: recetas
     values:
       layout: post
       read_time: true
