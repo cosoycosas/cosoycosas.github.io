@@ -1,5 +1,5 @@
 # Theme Skin
-skin: default # default, night, plum, sea, soft, steel
+skin: cosoycosas # default night, plum, sea, soft, steel
 
 # Theme Text
 t:
@@ -8,36 +8,36 @@ t:
   skip_content: "Skip to content"
   skip_footer: "Skip to footer"
   menu: "Menu"
-  search: "Search"
-  site_search: "Site Search"
-  results_found: "Result(s) found"
-  search_placeholder_text: "Enter your search term..."
-  home: "Home"
-  newer: "Newer"
-  older: "Older"
+  search: "Buscar"
+  site_search: "Sitio de búsqueda"
+  results_found: "Cosa(s) encontradas"
+  search_placeholder_text: "Poné acá el nombre del coso"
+  home: "Inicio"
+  newer: "más nuevos"
+  older: "más viejos"
   email: "Email"
-  subscribe: "Subscribe"
-  read_more: "Read More"
-  posts: "Posts"
-  page: "Page"
-  of: "of"
-  min_read: "min read"
-  present: "Present"
-  cv_awards: "Awards"
-  cv_summary_contact: "Contact"
-  cv_summary_contact_email: "Email"
-  cv_summary_contact_phone: "Phone"
-  cv_summary_contact_website: "Website"
-  cv_location: "Location"
-  cv_education: "Education"
-  cv_education_courses: "Courses"
-  cv_interests: "Interests"
-  cv_languages: "Languages"
-  cv_publications: "Publications"
-  cv_references: "References"
-  cv_skills: "Skills"
-  cv_volunteer: "Volunteer"
-  cv_work: "Work"
+  subscribe: "Suscribite al RSS"
+  read_more: "Leé más acá"
+  posts: "Posteos"
+  page: "Página"
+  of: "de"
+  min_read: "min de lectura"
+  present: "Presente"
+  # cv_awards: "Awards"
+  # cv_summary_contact: "Contact"
+  # cv_summary_contact_email: "Email"
+  # cv_summary_contact_phone: "Phone"
+  # cv_summary_contact_website: "Website"
+  # cv_location: "Location"
+  # cv_education: "Education"
+  # cv_education_courses: "Courses"
+  # cv_interests: "Interests"
+  # cv_languages: "Languages"
+  # cv_publications: "Publications"
+  # cv_references: "References"
+  # cv_skills: "Skills"
+  # cv_volunteer: "Volunteer"
+  # cv_work: "Work"
 
 # Google Fonts
 google_fonts:
@@ -50,4 +50,5 @@ google_fonts:
 
 navigation_pages:
   - about.md
-  - cv.md
+  - recipes.md
+  - posts.md
