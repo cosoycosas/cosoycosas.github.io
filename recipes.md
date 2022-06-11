@@ -2,7 +2,7 @@
 title: Recetas
 layout: collection
 permalink: /recetas/
-collection: recipes
+collection: recetas
 entries_layout: list
 ---
 
