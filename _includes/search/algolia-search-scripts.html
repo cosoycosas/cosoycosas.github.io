@@ -31,10 +31,11 @@ const hitTemplate = function(hit) {
 }
 
 // Adding searchbar and results widgets
+
 search.addWidget(
   instantsearch.widgets.searchBox({
     container: '.search-searchbar',
-    {% unless site.algolia.powered_by == false %}poweredBy: true,{% endunless %}
+    poweredBy: false,
     placeholder: '{{ site.data.theme.t.search_placeholder_text | default: "Enter your search term..." }}'
   })
 );
