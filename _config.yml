@@ -21,11 +21,11 @@ baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://cosoycosas.github.io/
 author:
   name: Juki
-  picture: /assets/images/logo_coso_home.jpg
+  picture: /assets/images/logo_coso_home.png
 telegram_channel: cosoycosas
 instagram_username: cosoycosas
 pinterest_username: cosoycosas
-logo: /assets/images/logo_coso_home_cuadrado.jpg
+logo: /assets/images/logo_coso_home_cuadrado.png
 search: true # false (default)
 search_full_content: true # false (default)
 search_provider: algolia
@@ -100,4 +100,4 @@ defaults:
 # disqus
 
 disqus:
-  shortname: my_disqus_shortname
+  shortname: cosoycosas
