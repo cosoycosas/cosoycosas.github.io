@@ -95,3 +95,8 @@ defaults:
     values:
       layout: post
       read_time: true
+
+# disqus
+
+disqus:
+  shortname: my_disqus_shortname
