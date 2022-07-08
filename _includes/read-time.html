@@ -4,6 +4,8 @@
   {% assign words = post.content | strip_html | number_of_words %}
 {% elsif page.read_time %}
   {% assign words = page.content | strip_html | number_of_words %}
+{% elsif receta.read_time %}
+  {% assign words = receta.content | strip_html | number_of_words %}
 {% endif %}
 
 {% if words < words_per_minute %}
