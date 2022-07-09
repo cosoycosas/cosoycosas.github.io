@@ -13,7 +13,7 @@ body {
 
 blockquote,
 q {
-  color: tint($text-color, 40%);
+  color: $text-color;
   font-style: italic;
 
   cite {
