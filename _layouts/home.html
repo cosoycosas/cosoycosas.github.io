@@ -28,12 +28,13 @@ layout: default
         </div>
       </div>    
     {% endif %}
-
     {% if site.recetas.size > 0 %}
     <div>
+      <!--
       <header class="section-title">
-          <h2>Acá podes encontrar las últimas recetas</h2>
+          <h2>Acá podes encontrar las últimas recetas y posteos</h2>
         </header>
+      -->
       <div class="entries-{{ page.entries_layout | default: 'list' }}">
           {% include recetas-all.html %}
       </div>
