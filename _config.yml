@@ -21,11 +21,11 @@ baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://cosoycosas.github.io/
 author:
   name: Coso
-  picture: /assets/images/logo_coso_home.png
+  picture: /assets/images/logo_coso_home.webp
 telegram_channel: cosoycosas
 instagram_username: cosoycosas
 pinterest_username: cosoycosas
-logo: /assets/images/logo_coso_home_cuadrado.png
+logo: /assets/images/logo_coso_home_cuadrado.webp
 search: true # false (default)
 search_full_content: true # false (default)
 search_provider: algolia
