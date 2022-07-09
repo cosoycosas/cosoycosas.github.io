@@ -4,8 +4,22 @@
     <div class="intro-image">
       <img src="{{ intro_image }}" alt="{{ page.title }}">
     </div>
+  {% else %}
+  {% for collection in site.collections %}
+    {% assign pages = site[collection.label] | sort: "title" %}
+      {% for receta in pages %}
+        {% if forloop.last == true %}
+          {% assign title = receta.title | markdownify | strip_html %}
+            {% if receta.image.thumbnail %}
+              {% assign entry_image = receta.image.path | relative_url | escape %}
+                <a href="{{ receta.url | relative_url }}">
+                  <img class="entry-image u-photo" src="{{ entry_image }}" alt="">
+                </a>
+            {% endif %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
   {% endif %}
-
   <div class="inner">
     <div class="intro-text">
       <h1 id="page-title" class="intro-title">{{ page.alt_title | default: page.title | default: site.title | markdownify | strip_html }}</h1>
