@@ -1,0 +1,29 @@
+<style>
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 3% 3%; width: 30%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block;}
+</style>
+
+<ul class="image-gallery">
+{% for collection in site.collections %}
+    {% assign pages = site[collection.label] | sort: "title" %}
+    {% for receta in pages %}
+        {% if receta.id %}
+            {% assign title = receta.title | markdownify | strip_html %}
+        {% else %}
+            {% assign title = receta.title %}
+        {% endif %}
+        {% assign entry_image = receta.image.path | relative_url | escape %}
+        <li>
+            <a href="{{ receta.url | relative_url }}">
+                <img class=" .image-gallery" src="{{ entry_image }}" alt="Imagen header del posteo">
+            </a>
+            <h5>
+                <a href="{{ receta.url | relative_url }}" rel="bookmark">{{ title }}</a>
+            </h5>
+        </li>
+    {% endfor %}
+{% endfor %}
+</ul>
