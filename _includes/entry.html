@@ -12,7 +12,7 @@
     {% if post.image.thumbnail %}
       {% assign entry_image = post.image.thumbnail | relative_url | escape %}
       <a href="{{ receta.url | relative_url }}">
-        <img class="entry-image u-photo" src="{{ entry_image }}" alt="">
+        <img class="entry-image u-photo" src="{{ entry_image }}" alt="Imagen header del posteo">
       </a>
     {% endif %}
   </header>
