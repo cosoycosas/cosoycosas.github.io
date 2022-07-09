@@ -20,7 +20,7 @@ description: plant based vegan recipes and diy upcycling garments
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://cosoycosas.github.io/
 author:
-  name: Juki
+  name: Coso
   picture: /assets/images/logo_coso_home.png
 telegram_channel: cosoycosas
 instagram_username: cosoycosas
