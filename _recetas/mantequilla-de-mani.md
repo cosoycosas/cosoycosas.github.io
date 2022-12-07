@@ -1,7 +1,7 @@
 ---
 title: "Mantequilla de maní"
 image: 
-  thumbnail: /assets/images/mantequilla_de_mani/mantequilla_de_mani_10.webp
+  thumbnail: /assets/images/mantequilla_de_mani/mantequilla_de_mani_12.webp
   path: /assets/images/mantequilla_de_mani/mantequilla_de_mani_09.webp
   caption: "Foto de textura de mantequilla de maní"
 comments: true
@@ -66,4 +66,6 @@ De ninguna de las dos maneras debería ponerse mala.
 - Para sumar en preparaciones dulces como galletitas o relleno de una torta.
 - Una genial es para hacer leche, se me acaba de ocurrir dejarles esta otra receta de yapa [acá]({{site.url}}/recetas/leche-de-mantequilla-de-mani/) porque así soy.
 
-!["Foto de mantequilla de maní en un frasco sobre una tabla de madera y una cuchara con mantequilla"](/assets/images/mantequilla_de_mani/mantequilla_de_mani_10.webp)
+!["Foto de mantequilla de maní en un frasco sobre una tabla de madera y una cuchara con mantequilla"](/assets/images/mantequilla_de_mani/mantequilla_de_mani_11.webp)
+
+!["Foto de mantequilla de maní en un frasco sobre una tabla de madera y una cuchara con mantequilla"](/assets/images/mantequilla_de_mani/mantequilla_de_mani_00.webp)
