@@ -5,20 +5,33 @@
       <img src="{{ intro_image }}" alt="{{ page.title }}">
     </div>
   {% else %}
-    {% for collection in site.collections %}
-      {% assign pages = site[collection.label] | sort: "title" %}
-        {% for receta in pages %}
-          {% if forloop.last == true %}
-            {% assign title = receta.title | markdownify | strip_html %}
-              {% if receta.image.thumbnail %}
-                {% assign entry_image = receta.image.path | relative_url | escape %}
-                  <a href="{{ receta.url | relative_url }}">
-                    <img class="entry-image u-photo" src="{{ entry_image }}" alt="Imagen header del posteo">
-                  </a>
-              {% endif %}
-          {% endif %}
-        {% endfor %}
-    {% endfor %}
+    {% assign receta = site.recetas | sample %}
+      {% assign title = receta.title | markdownify | strip_html %}
+        {% if receta.image.thumbnail %}
+          {% assign entry_image = receta.image.path | relative_url | escape %}
+          <style>
+            .entry-random-image{
+              width: 100%;
+              aspect-ratio: 10 / 3;
+              background-position: center 32.5%;
+              background-repeat: no-repeat;
+              background-size: cover;
+              background-image: url("{{ entry_image }}");
+              margin-bottom: 1.5rem;
+            }
+          </style>
+          <div class="container">
+            <a href="{{ receta.url | relative_url }}">
+              <div class="entry-random-image">
+                <div class="overlay">
+                    <div class="middle-text">
+                      <h1>{{ receta.title }}</h1>
+                    </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        {% endif %}
   {% endif %}
   <div class="inner">
     <div class="intro-text">

@@ -27,6 +27,39 @@
   }
 }
 
+.container {
+  position: relative;
+  width: 100%;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  aspect-ratio: 10 / 3;
+  opacity: 0;
+  text-align: center;
+  transition: .3s ease;
+  background-color: $accent-color;
+  margin-bottom: 1rem;
+
+}
+.container:hover .overlay {
+  opacity: .80;
+  color: $text-color;
+}
+
+.middle-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
 .entry-image {
   width: 100%;
   margin-bottom: 1rem;
