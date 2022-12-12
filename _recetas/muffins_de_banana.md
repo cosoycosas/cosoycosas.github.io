@@ -38,9 +38,11 @@ Uso azúcar rubia orgánica para esta receta porque es la que tengo y suelo comp
 
 Tengan en cuenta que el tiempo de cocción y preparación es un tiempo aproximado y es el tiempo en el que lo hago yo, después depende de cuánto le lleve a cada uno hacer las cosas y de cada horno ya que no todos cocinan igual ni tienen la misma potencia. Si cocinan, ya deben conocer su horno y si no suelen cocinar y están empezando a experimentar, ya le irán agarrando la mano.
 
-___________________________________________________________________________
+---
+
 **Esta receta es ideal para quienes creen que no se pueden hacer budines ni tortas sin huevo**
-__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+---
 
 ### Ingredientes
 
