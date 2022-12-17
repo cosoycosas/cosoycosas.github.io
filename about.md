@@ -5,7 +5,7 @@ layout: about
 
 ### Hola!
 
-Soy **Juki**, desde que *dejé de comer animales* que empecé a interesarme por hacer **mi propia comida**, quería saber lo que estaba comiendo, o al menos saber que mi plato tenía la menor cantidad de mierdas posible (entre grandes comillas porque sabemos que *hasta una simple manzana no es sólo manzana*, está todo lleno de *pesticidas y tóxicos*).
+Soy **Juki**, desde que *dejé de comer animales* que empecé a interesarme por hacer **mi propia comida**, quería saber lo que estaba comiendo, o al menos saber que mi plato tenía la menor cantidad de mierdas posible (entre comillas porque sabemos que *hasta una simple manzana no es sólo manzana*, está todo lleno de *pesticidas y tóxicos*).
 
 Cuando empecé a *cocinar sin animales* descubrí una **gran variedad** de *ingredientes*. Poder hacer tu propia comida te da la libertad de hacer, por ejemplo, quesos de **distintas variedades**, lo que me posibilitó **no comer siempre lo mismo** y que por más que quisiera incorporar quesos en la mayoría de mis comidas, siempre incorporara **diversidad de sabores**.
 
