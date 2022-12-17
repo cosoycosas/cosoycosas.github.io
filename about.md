@@ -1,5 +1,5 @@
 ---
-title: "_________________________"
+title: "Sobre coso"
 layout: about
 ---
 
