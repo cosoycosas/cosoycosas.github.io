@@ -22,4 +22,3 @@ Les voy a compartir mis ideas pero **ustedes también pueden dejar las suyas** e
 Acá vas a encontrar **recetas antiespecistas** y otras **cosas** que me gusta hacer y compartir.
 
 *Espero les sirva*,
-*con odio*,
