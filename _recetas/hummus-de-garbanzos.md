@@ -28,15 +28,17 @@ Podes frizar el **hummus ya hecho**, frizar los **garbanzos cocidos** y cuando d
 
 La **receta** es **muy sencilla**, quizás *lo más tedioso* es hacer el **remojo** y **hervir** los *garbanzos* porque *lleva tiempo*, pero si haces **en cantidad** después lo podes *tener a mano para que sea más rápido hacerlo la próxima vez* que quieras comer **un buen hummus** o usar **garbanzos** para *otras recetas*.
 
+Para **decorar** el plato **al servir** uso **aceite de oliva** y **pimentón** pero vos podes agregarle lo que te guste. Se me ocurre que *puede ser* **pimienta**, **curry**, **perejil fresco**, **ralladura de limón**, **ají molido**, **merken**, *lo que se te ocurra que pueda quedar rico, probalo*.
+
 *Lo puedo hacer con garbanzos de lata?* **Sí**, podes hacerlo alguna vez **para zafar** pero no te va a quedar con buena textura y además es *mejor evitar comer productos enlatados*. *Si es la única forma en la que podes acceder a los garbanzos, no dejes de comer legumbres por eso*, **lo mejor que consigas va a estar bien**.
 
 ### Ingredientes
 
 - garbanzos remojados y cocidos (**500grs** en seco)
 - agua de la cocción o *aquafaba* (**lo necesario** para lograr la textura que queremos)
-- limón (**a gusto**)
+- limón (**a gusto**, yo le pongo el **jugo** de **un limón**)
 - sal (**a gusto**)
-- pimentón (**a gusto** *para decorar* el plato)
+- pimentón o lo que quieras, para servir (**a gusto**)
 - aceite de oliva (unas **8cdas**)
 
 ### Preparación
