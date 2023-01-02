@@ -52,12 +52,12 @@ La **receta** es **muy sencilla**, quizás *lo más tedioso* es hacer el **remoj
 
 ### Para qué lo puedo usar?
 
-1. Para ponerle a las tostadas de la mañana (si queres acá no le pones el pimentón).
-2. Para comer con unas crackers.
-3. Para sumar a alguna ensalada.
-4. Para reemplazar la salsa en una pizza.
-5. Para usar como aderezo en un sandwich.
-6. Para usarlo de salsa y clavarte unos buenos fideos.
-7. Para agregarlos a una picada.
+1. Para comerlo **con tostadas** (si queres acá no le pones el pimentón).
+2. Para comer **con unas crackers**.
+3. Para sumar a alguna **ensalada**.
+4. Para reemplazar la **salsa en una pizza**.
+5. Para usar **como aderezo** en un **sandwich**.
+6. Para usarlo de **salsa** y clavarte unos buenos **fideos**.
+7. Para agregarlos a una **picada**.
 
 *Ustedes de qué otra forma lo usarían? Se les ocurre alguna otra idea?* 
