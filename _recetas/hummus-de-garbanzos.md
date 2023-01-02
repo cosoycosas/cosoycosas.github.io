@@ -62,4 +62,4 @@ Para **decorar** el plato **al servir** uso **aceite de oliva** y **pimentón** 
 6. Para usarlo de **salsa** y clavarte unos buenos **fideos**.
 7. Para agregarlos a una **picada**.
 
-*Ustedes de qué otra forma lo usarían? Se les ocurre alguna otra idea?* 
+*Ustedes de qué otra forma lo comerían?*
