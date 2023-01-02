@@ -9,18 +9,18 @@ date: "2022-06-20"
 ---
 
 | Porciones | Tiempo de preparación | Tiempo de cocción | Detalles       |
-|-----------|-----------------------|-------------------|----------------|
-| 500grs    | 5 min                 | 1 hr aprox        | 8 hr de remojo |
+|-----------|-----------------------|-------------------|-------------|
+| 250grs    | 5 min                 | 1 hr aprox        | 8 hr de remojo mínimo|
 
 Después de *tanto tiempo* de hacer **hummus** y probarlo de *muchas formas diferentes*, te comparto la manera en la que **más me gusta** hacerlo. Sí, *sin ajo y sin tahini*, un escándalo.
 
-Esta es *mi forma* de hacerlo, **no es el hummus clásico**, yo lo hago así porque así me gusta comerlo a mí. Si te gusta con **tahini**, **ajo** u **otra cosa**, se la agregas, vos también *hacelo a tu manera*!
+Esta es *mi forma* de hacerlo, **no es el hummus clásico**, yo lo hago así porque así me gusta comerlo a mí. Si te gusta con **tahini**, **ajo**, **comino** u *otra cosa*, se la agregas, vos también *hacelo a tu manera*!
 
 Lo que le da la textura al **hummus** es que cocines los **garbanzos** hasta que queden **súper tiernos**, tenes que agarrarlos con los dedos y se tienen que poder **aplastar fácil**, ese es el punto **ideal**. Esto lo vas a lograr **más fácilmente** si en el remojo le agregas una cdita de **bicarbonato de sodio**. Así tu **hummus** va a quedar **cremoso**, **sedoso** y **hermoso**!
 
 **No tires el agua de la cocción** cuando los cueles, reservala para más adelante porque *la vamos a usar* para hacer nuestro **hummus**.
 
-Si queres hacer en **menos cantidad**, podes hacer como para **una porción**, a mí la verdad que ya que remojo y hiervo los garbanzos *me gusta hacer en cantidad y ya tenerlos listos*.
+Si queres hacer en **menos cantidad**, podes hacer como para **una porción**, a mí la verdad que ya que remojo y hiervo los garbanzos *me gusta hacer en cantidad y ya tenerlos listos*. La **receta** está contemplada para **250grs de garbanzos** secos (*antes de activarlos y hervirlos*) pero siempre hago **mínimo medio kilo** de **garbanzos**.
 
 Tene en cuenta a la hora de **activar** los **garbanzos** que cuando se hidraten *van a hincharse*, por lo tanto procurá ponerlos en un **recipiente grande**, con **bastante agua** y *andá chequeando que no se queden sin agua*, si les falta, agrega más.
 
@@ -34,12 +34,12 @@ Para **decorar** el plato **al servir** uso **aceite de oliva** y **pimentón** 
 
 ### Ingredientes
 
-- garbanzos remojados y cocidos (**500grs** en seco)
+- garbanzos remojados y cocidos (**250grs** en seco)
 - agua de la cocción o *aquafaba* (**lo necesario** para lograr la textura que queremos)
-- limón (**a gusto**, yo le pongo el **jugo** de **un limón**)
+- limón (**a gusto**, yo le pongo el **jugo** de **medio limón**)
 - sal (**a gusto**)
 - pimentón o lo que quieras, para servir (**a gusto**)
-- aceite de oliva (unas **8cdas**)
+- aceite de oliva (unas **4cdas** aprox.)
 
 ### Preparación
 
