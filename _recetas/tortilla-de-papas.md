@@ -6,15 +6,21 @@ Desde que dejé de comer animales que no comía tortilla de papas, siempre pens�
 
 Sé que a muchxs no les gusta el sabor de la harina de garbanzos porque puede ser muy amarga pero ese amargor se le puede bajar con algo ácido como algún vinagre o limón. Yo siempre uso limón porque lo amo y me encanta ponerle a todo pero cualquiera de los dos va a estar bien, usá el que más te guste a vos. La cantidad de jugo de limón que recomiendo detallada en la receta es la que a mí me funciona pero uds prueben, quizás necesiten más.
 
+!["Foto de una porción de una tortilla dorada sobre un plato color amarillo."](/assets/images/tortilla_de_papas/tortilla_de_papas_04.webp)
+
 Lo importante para hacer una buena tortilla es esperar a que se cocine bien de un lado antes de darla vuelta. Yo la cocino a fuego bajo y espero a que esté bien dorada, va a tardar más o menos dependiendo de su cocina, sean pacientes que es la base del éxito de nuestra tortilla.
 
 Otra cosa súper importante es usar una sartén antiadherente. He probado de hacerlas en otro tipo de sartenes y no sale, se rompe toda, se quema, es un bardo, nunca logré hacerlas.
 
 Hay debates de cómo debería hacerse la tortilla posta, que si con cebolla, que sin cebolla, bueno, acá claramente la hacemos sin huevo así que vamos a hacer lo que se nos cante. Yo dependiendo de lo que tenga, le agrego tal o cuál otra cosa. La receta que le comparto a continuación es la que suelo hacer generalmente pero obviamente la pueden modificar sacandole la cebolla o sumandole otras cosas como hongos, hojas verdes, lo que se les ocurra que pueda quedar bueno.
 
+!["Foto centrada sacada en cenital de una tortilla completa bien dorada por encima sobre un plato amarillo que está en una mesa de madera"](/assets/images/tortilla_de_papas/tortilla_de_papas_05.webp)
+
 Con respecto a la cocción de la papa, la cocino al vapor pero la pueden hacer también hervida. Me olvidé de pesarla antes de cocinarla pero era una papa mediana tirando a grande, igual por un poquito más o menos tampoco es grave, les dejo siempre los pesos como guía pero no es necesario que sea exacto. Una vez que sepan hacer los ligues y calcular cantidades a ojo, no van a necesitar medir casi nada.
 
 Cuando quiero que las papas se cocinen rápido las suelo cortar al medio y en rodajas de medio centímetro (en semicírculo), así se hacen al toque y queda una tortilla tipo milhojas.
+
+!["Foto centrada sacada en cenital de una tortilla bien dorada con una porción cortada y puesta sobre la tortilla. Esta está sobre un plato amarillo sobre una mesa de madera"](/assets/images/tortilla_de_papas/tortilla_de_papas_06.webp)
 
 La sal negra en la receta la uso para darle sabor a huevo pero es completamente opcional. Si les gusta o extrañan el sabor a huevo les recomiendo que la prueben. A mí me costó bastante conseguirla pero lo bueno es que como se usa poco dura mucho.
 
@@ -40,7 +46,10 @@ Para mayor placer, al comerla siempre le pongo bocha de limón por arriba, les r
 5. La dejamos cocinar por el otro lado y cuando veamos que está por estar lista, apagamos el fuego y la dejamos un ratito más para que se dore bien.
 6. La sacamos del fuego con un plato al igual que cuando queremos voltearla.
 
+!["Foto descentrada sacada en cenital de una tortilla de papas bien dorada por encima que está en un plato amarillo sobre una mesa de madera. El plato está en la esquina inferior derecha de la imagen y se corta su borde lateral derecho e inferior."](/assets/images/tortilla_de_papas/tortilla_de_papas_07.webp)
+
 ### Con qué la puedo comer?
+
 - Sola con mucho limón
 - Con algún dip
 - Con ensalada
