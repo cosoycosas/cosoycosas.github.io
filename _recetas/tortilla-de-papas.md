@@ -1,6 +1,16 @@
+---
+title: "Tortilla de papas"
+image: 
+  thumbnail: /assets/images/tortilla_de_papas/tortilla_de_papas_07.webp
+  path: /assets/images/tortilla_de_papas/tortilla_de_papas_07.webp
+  caption: "Foto de tortilla_de_papas"
+comments: true
+date: "2023-02-02"
+---
+
 | Porciones          | Tiempo de preparación | Tiempo de cocción |
 |--------------------|-----------------------|-------------------|
-| 1 tortilla mediana | 1 hr aprox            | 30 min aprox      |
+| 1 tortilla         | 1 hr aprox            | 30 min aprox      |
 
 Desde que dejé de comer animales que no comía tortilla de papas, siempre pensé que era imposible reemplazar al huevo con otros ingredientes para ligar. Hasta que un día me decidí a probar y usé el ligue que usaba para las milanesas, mi amada harina de garbanzos.
 
